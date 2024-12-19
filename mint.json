@@ -1,25 +1,26 @@
 {
-  "$schema": "https://mintlify.com/schema.json",
-  "name": "Kdeps",
-  "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
-  },
-  "favicon": "/favicon.svg",
-  "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
-    "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+    "$schema": "https://mintlify.com/schema.json",
+    "name": "Kdeps",
+    "logo": {
+        "dark": "/logo/dark.svg",
+        "light": "/logo/light.svg"
+    },
+    "favicon": "/favicon.svg",
+    "colors": {
+        "primary": "#0D9373",
+        "light": "#07C983",
+        "dark": "#0D9373",
+        "anchors": {
+            "from": "#0D9373",
+            "to": "#07C983"
+        }
+    },
+    "navigation": [
+        "navigation1"
+    ],
+    "footerSocials": {
+        "x": "https://x.com/kdeps_ai",
+        "github": "https://github.com/kdeps",
+        "linkedin": "https://www.linkedin.com/company/kdeps"
     }
-  },
-  "navigation": [
-  ],
-  "footerSocials": {
-    "x": "https://x.com/kdeps_ai",
-    "github": "https://github.com/kdeps",
-    "linkedin": "https://www.linkedin.com/company/kdeps"
-  }
 }
