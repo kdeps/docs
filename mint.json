@@ -16,7 +16,10 @@
         }
     },
     "navigation": [
-        "navigation1"
+        {
+            "group": "Get Started",
+            "pages": []
+        }
     ],
     "footerSocials": {
         "x": "https://x.com/kdeps_ai",
