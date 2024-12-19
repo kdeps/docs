@@ -18,7 +18,10 @@
     "navigation": [
         {
             "group": "Get Started",
-            "pages": []
+            "pages": [
+                "introduction",
+                "quickstart"
+            ]
         }
     ],
     "footerSocials": {
